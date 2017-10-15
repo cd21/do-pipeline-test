@@ -1,5 +1,11 @@
 <?php
+
+$config = json_decode(file_get_contents('data.txt'), true);
+
+var_dump($config);
+
+
 // wow
-echo 'Hello PHP!!!!!!!!!!!!!:D:D 123 456 !!11!!11aaaaaa still working?';
+echo 'ye';
 
 
