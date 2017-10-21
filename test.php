@@ -111,3 +111,4 @@ function apiCall($endpoint)
         return json_decode($response, true);
     }
 }
+echo "wass";
