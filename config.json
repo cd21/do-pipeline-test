@@ -1,5 +1,5 @@
 {
-	"apikey": "RGAPI-9d03071e-9b96-439f-bfed-b1f1162e7115",
+	"apikey": "RGAPI-940497a8-c46d-49c1-a6ff-c43f46634f11",
 	"region": "euw1",
 	"recordStats": ["totalDamageDealtToChampions", "damageDealtToObjectives", "damageDealtToTurrets", "wardsPlaced"]
 }
